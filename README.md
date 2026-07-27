@@ -385,3 +385,17 @@ def chatbot(request, message_history):
 ### 퀴즈
 
 ![퀴즈](./images/quiz.png)
+
+## 📹 발표영상
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center"> 24.09.31 발표 </p>
+        <a href="https://youtu.be/ByeAqd8mwyg" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/youtube.png" alt="YouTube Icon" class="icon">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
